@@ -1,2 +1,2 @@
 # school-projects
-All the exercises and practices of the course
+All the exercises and practices from the grade.
