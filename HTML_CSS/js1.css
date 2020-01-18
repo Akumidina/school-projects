@@ -1,0 +1,38 @@
+body {
+  margin: 0px;
+
+}
+
+span {
+  position: relative;
+  float: left;
+  width: 300px;
+  height: 200px;
+  border: gray solid 1px;
+  overflow:hidden;
+  margin: 30px;
+
+}
+
+div {
+  position: relative;
+  overflow:hidden;
+  margin: 30px;
+
+}
+
+.form{
+  clear: both;
+  margin-bottom: 0px;
+}
+
+
+#enlaces {
+
+ visibility: visible;
+ margin-left: 10px;
+
+}
+#imagen3 {
+  visibility: visible;
+}

@@ -1,0 +1,18 @@
+#solid {
+  border: 4px solid red;
+}
+#dotted {
+  border: 4px dotted
+}
+#dashed {
+  border: 4px dashed blue
+}
+#double {
+  border: 6px double lightgreen
+}
+#form {
+  border: solid green
+}
+.a {
+  border:solid red 1px
+}

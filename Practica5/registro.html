@@ -1,0 +1,94 @@
+
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+
+<head>
+  <title>Enlaces</title>
+<meta charset="UTF-8" />
+<meta name="description" content="Practica 4 Maquetación página web" />
+<meta name="robots" content="index,nofollow" />
+<meta name="Author" content="Ana MArtínez Ranea" />
+<meta name="keywords" content="Demo,Prueba,Práctica4" />
+<meta name="lang" content="es" />
+<meta name="category" content="Prácticas,test" />
+<link rel="stylesheet" type="text/css" href="style.css">
+<script>
+
+  function checkForm(form)
+  {
+    if (!form.terms.checked) {
+      alert('Por favor marca la casilla de "He leído y acepto la Política de Privacidad" ');
+      form.terms.focus();
+      return false;
+    }
+    return true;
+  }
+
+</script>
+
+</head>
+
+<body>
+
+    <header>
+            <!-- Sep, está vacío -->
+    </header>
+
+      <nav>
+        <a href="index.html" class="myButton">Índex</a>
+        <a href="noticias.html" class="myButton">Noticias</a>
+        <a href="enlaces.html" class="myButton">Enlaces</a>
+        <a href="galeria.html" class="myButton">Galería</a>
+        <a href="registro.html" class="myButton">Registro</a>
+      </nav>
+
+
+
+  <section>
+      <article>
+        <h1> Formulario de inscripicón</h1><br>
+        <div style="width:100%;">
+          <img class="imgtop" src="img/registro1.png" alt="">
+        </div>
+      </article>
+<br>
+      <article>
+        <div class="form" id="formulario">
+          <h2> Rellena los siguientes campos:</h2><br><br>
+          <form action="registroen.html" method="get" onsubmit="return checkForm(this);">
+            <input autofocus type="text" name="name" placeholder="Nombre" required size="40">
+<br>
+            <input type="email" placeholder="Correo electrónico" required name="email" value="">
+<br>
+    <textarea placeholder="Mensaje" name="name" required rows="8" cols="80"></textarea></p>
+  <br>
+<p class="checkboxp">
+  <input type="checkbox" class="checkbox mens" required name="terms">
+    He leído y acepto la Política de Privacidad
+</p>
+
+
+<br><br>
+
+    <input type="submit" class="myButton noborder" value="Enviar">
+    <input type="reset" class="myButton noborder" value="Borrar">
+
+</form>
+        </div>
+
+
+      </article>
+  </section>
+
+<br><br>
+
+    <footer>
+
+        <p>Contenido del pié de página.</p><br>
+        <p><a href="registro.html">Contactanos</a></p>
+
+
+
+    </footer>
+  </body>
+</html>

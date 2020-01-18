@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Primer ejercicio javascript</title>
+    <link rel="stylesheet" href="js1.css">
+    <script type="text/javascript">
+      function cargando() {
+        alert('Buenos días');
+      }
+
+      function primera() {
+        document.getElementById('imagen').src = 'https://megaricos.com/wp-content/uploads/2019/06/Remy_Martin_XO_6.jpg'
+      }
+
+      function segunda() {
+        document.getElementById('imagen').src = 'https://www.thoughtco.com/thmb/yLYsEuWhULiTsI79C3e0kt8Eteg=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/abstract-paper-flower-pattern-656688606-5acfba2eae9ab80038461ca0.jpg'
+      }
+
+      function tercera() {
+        document.getElementById('imagen').src = 'https://sophosnews.files.wordpress.com/2019/04/shutterstock_407554567-compressor-1.jpg?w=780&h=408&crop=1'
+      }
+
+      function seleccionarTodos(opcion) {
+        for (i = 1; i <= 3; i++) {
+          if (opcion) {
+            document.getElementById('ch' + i).checked = true;
+          }else {
+            document.getElementById('ch' + i).checked = false;
+          }
+        }
+      }
+
+      function ocultar() {
+        document.getElementById('imagen3').style.visibility = 'hidden';
+      }
+
+      function mostrar() {
+        document.getElementById('imagen3').style.visibility = 'visible';
+      }
+
+    </script>
+
+  </head>
+
+  <body onload="cargando()">
+
+<span class="one">
+  <img  id="imagen" src="https://megaricos.com/wp-content/uploads/2019/06/Remy_Martin_XO_6.jpg">
+
+</span>
+
+
+<span class="one" id=enlaces>
+  <a onclick="primera()" href="#">Imagen 1</a> <br>
+  <a onclick="segunda()" href="#">Imagen 2</a><br>
+  <a onclick="tercera()" href="#">Imagen 3</a><br>
+</span>
+<div class="form"  >
+  <form class="" action="index.html" method="post">
+    <input type="checkbox" name="BTS" value="" id="ch1"> BTS <br>
+    <input type="checkbox" name="Billie Eilish" value="" id="ch2"> Billie Eilish <br>
+    <input type="checkbox" name="Kygo" value="" id="ch3"> Kygo <br>
+    <input type="checkbox" name="Todos" value="" id="selector" onclick="seleccionarTodos(this.checked)"> Todos
+  </form>
+</div>
+
+<span class="" id="imagen1">
+  <img id="imagen3" src="https://cdn-ep19.pressidium.com/wp-content/uploads/2018/09/texture-photography-atmospheric-light.jpg" alt="">
+</span>
+
+<div>
+  <button type="button" name="button" id="ocultar" onclick="ocultar()">Ocultar</button> <br>
+  <button type="button" name="button" id="mostrar" onclick="mostrar()">Mostrar</button>
+</div>
+
+
+
+  </body>
+</html>

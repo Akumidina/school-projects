@@ -1,0 +1,17 @@
+.news {
+  border: solid black 5px;
+  height: 4em;
+  width: 80%;
+  overflow: hidden;
+}
+#zero{
+  overflow: scroll;
+}
+#three {
+  overflow: scroll;
+}
+.doce{
+  clip: rect( 0px 300px 500px 0px);
+ position: absolute;
+
+}

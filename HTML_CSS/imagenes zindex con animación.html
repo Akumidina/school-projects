@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {position: absolute;}
+img#lelouch {
+  position: absolute;
+  left:-450px;
+  top: -30px;
+  clip: rect(30px 700px 275px 450px);
+  z-index:0;
+}
+
+img#suzaku {
+  position: absolute;
+  left:-75px;
+  top: -400px;
+  clip: rect(425px,350px,670px,100px);
+  z-index:1
+}
+
+
+div#myBox {
+  opacity: 1;
+  z-index: 1;
+  -webkit-animation: mymove 2s infinite linear; /* Chrome, Safari, Opera */
+}
+
+/* Standard syntax */
+@keyframes mymove {
+ 100%{z-index: 2;}
+ /*25%{opacity:0.25;}
+ 75%{opacity:0.75;}
+ 100%{opacity:1;}*/
+ }
+</style>
+
+
+</head>
+<body style="position:absolute">
+
+<h1>Animation of z-index</h1>
+
+<div id="container">
+  <div id="myBox"><img id="lelouch" src="image1.jpg" alt="lelouch and suzaku"></div>
+  <div style="z-index:1;"><img id="suzaku" src="image1.jpg" alt="lelouch and suzaku"></div>
+
+</div>
+
+</body>
+</html>
