@@ -1,9 +1,9 @@
 
 
-var valores = 'inserta algo';
+var valores = [];
 
 function insertar() {
-  valores = (document.getElementById('valor').value);
+  valores.push(document.getElementById('valor').value);
 }
 
 function alerta() {
