@@ -1,5 +1,5 @@
 * {
-margin: 0px;
+	margin: 0px;
 	padding:0px;
 }
 
@@ -12,8 +12,8 @@ html, body {
 	line-height:18px;
 	width:90%;
 	max-width: 1300px;
-			margin-left:auto;
-			margin-right:auto;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 nav {
@@ -24,7 +24,6 @@ nav {
 }
 
 header{
-  width:100%;
   position: static;
   display: inline-block;
   margin-bottom: 15px;

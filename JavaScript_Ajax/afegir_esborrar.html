@@ -6,27 +6,25 @@
     <script src="afegir_esborrar.js" charset="utf-8"></script>
   </head>
   <body style="font-family: monospace;">
-    <p>
-      En este ejercicio vamos a usar por primera vez las funciones en JavaScript. Crearemos una web que tenga dos funciones:
-      <br>
-        La primera la llamaremos ‘anyadir‘, recibirá por parámetro un array de valores, los juntará en una sola cadena y mostrará el resultado;
-      <br>
-        La segunda función ‘borrar’ no recibirá ningún parámetro y nos mostrará un mensaje ‘cadena inicializada’, además de borrar el vector de datos.
-      <br><br>
-      Este  vector  lo  llenaremos colocando en la página web un campo de texto y botón que al presionar irá rellenando el vector con los valores del campo de texto:
-      <br>
-        Debajo de estos dos elementos colocaremos dos botones: <br>
-        El primero llamará ‘anyadir’ pasando el vector como parámetro;<br>
-        El segundo se llamará ‘borrar’.<br>
-    </p>
+    <h1>
+      Ejercicio de Funciones parte 1
+    </h1>
 <br><br>
 
+  <p id="resultado" style="font-size: 20px;">Cadena inicializada</p>
+  <input type="text" name="" value="" id="valor" name="CajaParaBorrar" style="font-size: 20px;"> <br><br>
+  <input type="button" onclick="insertar()" name="" value="Añadir" style="font-size: 15px; margin-right: 10px;">
+  <input type="button" onclick="reseteaInputArray(); borrar();" name="borrar" value="Borrar" style="font-size: 15px;">
+
+<br><br><br><br><br>
 
 
-<p id="resultado" style="font-size: 20px;">El array aparecerá aquí.</p>
-<input type="text" name="" value="" id="valor" style="font-size: 20px;"> <br><br>
-<input type="button" onclick="insertar()" name="" value="Añadir" style="font-size: 15px; margin-right: 10px;">
-<input type="button" onclick="borrar()" name="borrar" value="Borrar" style="font-size: 15px;">
+
+<h1>Ejercicio Funciones parte 2</h1>
+  <p id="resultadoSuma" style="font-size: 20px;">Suma inicializada</p>
+  <input type="text" name="" value="" id="numSuma" style="font-size: 20px;"> <br><br>
+  <input type="button" onclick="sumar()" name="" value="Sumar" style="font-size: 15px; margin-right: 10px;">
+  <input type="button" onclick="borrarSuma(); reseteaInputSuma();" name="borrar" value="Borrar" style="font-size: 15px;">
 
 
 
