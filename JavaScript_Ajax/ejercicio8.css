@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  margin: auto;
+  width: 100%;
+}
+
+#caja {
+  background-color: green;
+}
+
+.box {
+  border-style: solid;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  background-color: white;
+}

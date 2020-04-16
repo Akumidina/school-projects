@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<!-- Práctica del módulo Javascript (Formularios) elaborada por
+Alfredo Ramírez para EXITAE Delegaciones.
+[ Validación de formularios con Javascript ]
+Adaptado a 1980x1080 de resolución.
+Mejor si se usa Chrome/Chromium como navegador.
+-->
+<HTML lang="es">
+<head>
+<meta charset="UTF-8" />
+<title>Formulario Validacion</title>
+<link href="estilos.css" rel="stylesheet">
+<script src="compruebaDatosForm.js" charset="utf-8"></script>
+</head>
+
+<body background="bokeh.jpg">
+	<div class="caja0">
+		<span id="logo"><img src="logo.png" /></span>
+	</div>
+	<div class="caja1">
+		<br/>
+		<form action="" method="" id="Formulario" name="" />
+
+			<h3><center>RELLENA LOS SIGUIENTES CAMPOS:</center></h3>
+			</br></br>
+				<table border="0">
+					<tr>
+						<td><h5>NOMBRE:</h5></td>
+						<td style="font-size:20px;"><input class="textbox" type="text" name="nombre" maxlength="50" size="40" id="nombre" value="" placeholder="Tu nombre" required /></td>
+					</tr>
+					<tr>
+						<td><h5>DIRECCION:</h5></td>
+						<td style="font-size:20px;"><input class="textbox" type="text" name="nombre" maxlength="80" size="40" id="DIRECCION" value="" placeholder="Tu dirección" required/> *</td>
+					</tr>
+					<tr>
+						<td><h5>TELEFONO DE<br /> CONTACTO:</h5></td>
+						<td style="font-size:20px;"><input class="textbox" type="text" name="nombre" maxlength="9" size="9" id="TELEFONO" value="" placeholder="Móvil o Fijo" required /> *</td>
+					</tr>
+					<tr>
+						<td><h5>EDAD:</h5></td>
+						<td style="font-size:20px;"><input class="textbox" type="text" name="nombre" maxlength="2" size="5" id="EDAD" value="" placeholder="Tu edad" required /> *</td>
+					</tr>
+					<tr>
+						<td><h5>E-MAIL:</h5></td>
+						<td style="font-size:20px;"><input class="textbox" type="text" name="nombre" maxlength="50" size="40" id="E-MAIL" value="" placeholder="Tu direccion@correo.com" required /> *</td>
+					</tr>
+					<tr>
+						<td colspan="2"> (*) Los campos marcados con asterisco son obligatorios.</td>
+					</tr>
+				</table>
+			<br/>
+		<div class="botones">
+			<center>
+				<input type="submit" onclick="validar()" name="Boton de enviar" class="boton gris" value="ENVIAR" />
+				<input type="reset" name="Boton de borrado" class="boton gris" value="BORRAR" />
+			</center>
+		</div>
+
+		</form>
+	</div>
+</body>
+</HTML>

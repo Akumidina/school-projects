@@ -1,0 +1,325 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:s="https://www.zdnet.com/search" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Latest news</title>
+<description>Most recent news</description>
+<language>en</language>
+<link>https://www.zdnet.com/</link>
+<copyright>2020 CBS Interactive Inc. All rights reserved</copyright>
+<pubDate>Wed, 15 Apr 2020 08:26:20 +0000</pubDate>
+<lastBuildDate>Wed, 15 Apr 2020 08:26:20 +0000</lastBuildDate>
+<generator>ZDNet</generator>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<ttl>2</ttl>
+<image>
+<url>
+https://zdnet3.cbsistatic.com/fly/bundles/zdnetcore/images/logos/zdnet-144x144.png
+</url>
+<link>https://www.zdnet.com/</link>
+<title>Latest news</title>
+<width>144</width>
+<height>144</height>
+</image>
+<category>Technology</category>
+<s:counts>
+<start>0</start>
+<return>20</return>
+<found>378653</found>
+</s:counts>
+<item>
+<guid isPermaLink="false">78627e35-9e64-4ce5-99b8-c4e91c707cf2</guid>
+<link>
+https://www.zdnet.com/article/less-than-half-in-singapore-willing-to-share-covid-19-results-with-contact-tracing-tech/#ftag=RSSbaffb68
+</link>
+<title>
+Less than half in Singapore willing to share COVID-19 results with contact tracing tech
+</title>
+<description>
+Just 41% of Singaporeans are comfortable sharing a positive COVID-19 test result with contact tracing technology, though 55% -- the highest amongst six countries surveyed -- are willing to do so with their employer or school.
+</description>
+<pubDate>Wed, 15 Apr 2020 05:19:00 +0000</pubDate>
+<media:credit role="author">Eileen Yu</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">2ced6c31-e79b-4db4-90c7-9d288f081112</guid>
+<link>
+https://www.zdnet.com/article/coronavirus-tracing-tech-policy-more-significant-than-the-war-on-encryption/#ftag=RSSbaffb68
+</link>
+<title>
+Coronavirus tracing tech policy 'more significant' than the war on encryption
+</title>
+<description>
+COVID-19 apps that track individuals' movements and report them to a government server? What could possibly go wrong? Digital rights activists are starting to push back.
+</description>
+<pubDate>Wed, 15 Apr 2020 04:15:00 +0000</pubDate>
+<media:credit role="author">Stilgherrian </media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">9f5655cb-756e-4c40-a50f-c19ed3fcd587</guid>
+<link>
+https://www.zdnet.com/article/australia-looks-to-go-harder-with-use-of-covid-19-contact-tracing-app/#ftag=RSSbaffb68
+</link>
+<title>
+Australia looks to 'go harder' with use of COVID-19 contact tracing app
+</title>
+<description>
+It is eyeing Singapore's TraceTogether app that documents the interactions of individuals via Bluetooth.
+</description>
+<pubDate>Wed, 15 Apr 2020 03:46:00 +0000</pubDate>
+<media:credit role="author">Asha Barbaschow</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">3f5f6ebd-2c1c-4537-87ec-9fa1c8ad16d2</guid>
+<link>
+https://www.zdnet.com/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/#ftag=RSSbaffb68
+</link>
+<title>
+AFP used Clearview AI facial recognition software to counter child exploitation
+</title>
+<description>
+Seven officers have conducted searches on the Clearview AI facial recognition platform.
+</description>
+<pubDate>Wed, 15 Apr 2020 03:40:54 +0000</pubDate>
+<media:credit role="author">Asha Barbaschow</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">cf87aff0-f098-4369-91ee-0cbb8e315571</guid>
+<link>
+https://www.zdnet.com/article/samsung-pushes-8-5gbps-across-800mhz-of-5g-mmwave-spectrum/#ftag=RSSbaffb68
+</link>
+<title>
+Samsung pushes 8.5Gbps across 800MHz of 5G mmWave spectrum
+</title>
+<description>
+Multi-user MIMO sees Samsung transfer 4.3Gbps of data to a pair of mobiles.
+</description>
+<pubDate>Wed, 15 Apr 2020 01:30:32 +0000</pubDate>
+<media:credit role="author">Chris Duckett</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">5977cc5f-3eac-44cd-9d4e-29e551e5222c</guid>
+<link>
+https://www.zdnet.com/article/apple-releases-maps-mobility-data-to-help-researchers-understand-covid-19-spread-patterns/#ftag=RSSbaffb68
+</link>
+<title>
+Apple releases Maps mobility data to help researchers track spread of COVID-19
+</title>
+<description>
+The new tool provides mobility data for 'major cities and 63 countries or regions'.
+</description>
+<pubDate>Wed, 15 Apr 2020 00:39:00 +0000</pubDate>
+<media:credit role="author">Campbell Kwan</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">43dbfffc-f9e9-4e07-951f-3776a7a71f93</guid>
+<link>
+https://www.zdnet.com/article/microsoft-opens-accountguard-to-healthcare-providers-on-the-covid-19-front-lines/#ftag=RSSbaffb68
+</link>
+<title>
+Microsoft opens AccountGuard to healthcare providers on the COVID-19 front lines
+</title>
+<description>
+Microsoft says the service will remain free for all healthcare organizations "until the COVID-19 pandemic subsides."
+</description>
+<pubDate>Tue, 14 Apr 2020 22:23:23 +0000</pubDate>
+<media:credit role="author">Catalin Cimpanu</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">7c44f30c-3bf6-4159-9056-f9bb1dab4257</guid>
+<link>
+https://www.zdnet.com/article/conducting-customer-research-remotely-tips-tricks-and-resources/#ftag=RSSbaffb68
+</link>
+<title>
+Conducting customer research remotely: Tips, tricks, and resources
+</title>
+<description>Conducting research remotely has benefits.</description>
+<pubDate>Tue, 14 Apr 2020 21:23:54 +0000</pubDate>
+<media:credit role="author">Forrester Research</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">0029280b-2bf6-457a-9b14-aa493fab3268</guid>
+<link>
+https://www.zdnet.com/article/meet-the-iphone-se2-and-icouch-apples-service-bundle-for-the-pandemic/#ftag=RSSbaffb68
+</link>
+<title>
+Meet the iPhone SE2 and iCouch: Apple's service bundle for the pandemic
+</title>
+<description>
+While Netflix, Amazon, and HBO have excellent content, they'd have a difficultly competing with a service like this from Apple.
+</description>
+<pubDate>Tue, 14 Apr 2020 21:07:40 +0000</pubDate>
+<media:credit role="author">Jason Perlow</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">99b78d6f-8cec-4c3d-ad1d-d75f41314750</guid>
+<link>
+https://www.zdnet.com/article/how-verizon-medias-networking-team-is-handling-covid-19-supply-chain-challenges/#ftag=RSSbaffb68
+</link>
+<title>
+How Verizon Media's networking team is handling COVID-19 supply chain challenges
+</title>
+<description>
+"We had to create a DR plan for the DR plan," Verizon Media's Chief Network Architect said of the unprecedented global disruptions caused by the pandemic.
+</description>
+<pubDate>Tue, 14 Apr 2020 20:59:34 +0000</pubDate>
+<media:credit role="author">Stephanie Condon</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">fc617982-9c0c-409c-9264-445c1404df6f</guid>
+<link>
+https://www.zdnet.com/article/idrive-cloud-backup-deal-pay-3-48-for-5tb-and-save-95-the-first-year/#ftag=RSSbaffb68
+</link>
+<title>
+iDrive Cloud Backup deal: Pay $3.48 for 5TB and save 95% the first year
+</title>
+<description>
+Looking for a personal or sole-proprietorship backup? Then this iDrive deal demands a look.
+</description>
+<pubDate>Tue, 14 Apr 2020 20:00:00 +0000</pubDate>
+<media:credit role="author">Élyse Betters-Picaro</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">52f1671f-87a2-460d-972a-8a6844d99c25</guid>
+<link>
+https://www.zdnet.com/article/microsoft-april-2020-patch-tuesday-comes-with-fixes-for-three-zero-days/#ftag=RSSbaffb68
+</link>
+<title>
+Microsoft April 2020 Patch Tuesday comes with fixes for three zero-days
+</title>
+<description>
+Microsoft fixes another 113 bugs this month after patching a whopping 115 last month.
+</description>
+<pubDate>Tue, 14 Apr 2020 18:59:00 +0000</pubDate>
+<media:credit role="author">Catalin Cimpanu</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">ac325c47-f115-4335-a36f-f43aa58f4c22</guid>
+<link>
+https://www.zdnet.com/article/oneplus-8-and-8-pro-how-to-buy-and-where-to-find-the-best-deals/#ftag=RSSbaffb68
+</link>
+<title>
+OnePlus 8 and 8 Pro: How to buy and where to find the best deals
+</title>
+<description>
+The OnePlus 8 and 8 Pro goes on sale at OnePlus, Verizon, T-Mobile, and Amazon later this month.
+</description>
+<pubDate>Tue, 14 Apr 2020 18:52:00 +0000</pubDate>
+<media:credit role="author">Élyse Betters-Picaro</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">75bc2649-da98-430c-b67b-fb1ff27d7181</guid>
+<link>
+https://www.zdnet.com/article/microsoft-pushes-back-end-of-support-date-for-windows-10-1809/#ftag=RSSbaffb68
+</link>
+<title>
+Microsoft pushes back end of support date for Windows 10 1809
+</title>
+<description>
+Microsoft is giving Windows 10 1809 users a reprieve on when they'll receive their final security updates. It also is postponing end of support for Windows Server 1809, SharePoint Server 2010 and more, all due to effects of the coronavirus.
+</description>
+<pubDate>Tue, 14 Apr 2020 18:03:00 +0000</pubDate>
+<media:credit role="author">Mary Jo Foley</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">7972acab-b559-4936-b351-bccc94e8e5a0</guid>
+<link>
+https://www.zdnet.com/article/exclusive-google-removes-49-chrome-extensions-caught-stealing-crypto-wallet-keys/#ftag=RSSbaffb68
+</link>
+<title>
+Exclusive: Google removes 49 Chrome extensions caught stealing crypto-wallet keys
+</title>
+<description>
+The Chrome extensions were mimicking cryptocurrency wallet apps like Ledger, MyEtherWallet, Trezor, Electrum, and others, but, in reality, they were stealing users' private keys and mnemonic phrases.
+</description>
+<pubDate>Tue, 14 Apr 2020 18:00:07 +0000</pubDate>
+<media:credit role="author">Catalin Cimpanu</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">7b927b38-5700-4ac2-acb4-137527902a29</guid>
+<link>
+https://www.zdnet.com/article/best-vpn-services/#ftag=RSSbaffb68
+</link>
+<title>
+The best VPN services for your home office or any remote connection
+</title>
+<description>
+VPNs aren't essential only for securing your unencrypted Wi-Fi connections in coffee shops and airports. Every remote worker should consider a VPN to stay safe online. Here are your top choices and how to get set up.
+</description>
+<pubDate>Tue, 14 Apr 2020 17:50:00 +0000</pubDate>
+<media:credit role="author">David Gewirtz</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">79fad263-d73e-4ceb-a1df-9cabf37ea0b9</guid>
+<link>
+https://www.zdnet.com/article/roundup-the-coronavirus-pandemic-delivers-an-array-of-cyber-security-challenges/#ftag=RSSbaffb68
+</link>
+<title>
+Roundup: Coronavirus COVID-19 pandemic delivers array of cybersecurity challenges
+</title>
+<description>
+As the COVID-19 outbreak threatens to overload the healthcare system and the global economy, it's also having a powerful impact on the security of businesses and individuals.
+</description>
+<pubDate>Tue, 14 Apr 2020 17:37:00 +0000</pubDate>
+<media:credit role="author">David Grober</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">02a08a64-54f3-4d07-88bc-91f260b46fd8</guid>
+<link>
+https://www.zdnet.com/article/best-email-hosting-services/#ftag=RSSbaffb68
+</link>
+<title>
+The best email hosting services: G Suite and Microsoft 365 are not your only options
+</title>
+<description>
+Are you a small business or home office worker ready to graduate from free email offerings, present a professional address, and exert some control over your business communications? Then you'll want to sign up with an email hosting provider.
+</description>
+<pubDate>Tue, 14 Apr 2020 17:32:00 +0000</pubDate>
+<media:credit role="author">David Gewirtz</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">ce789afb-a512-49e4-af5c-fe22375062b0</guid>
+<link>
+https://www.zdnet.com/article/jason-squared-podcast-and-video-series-on-zdnet/#ftag=RSSbaffb68
+</link>
+<title>Jason Squared podcast and video series on ZDNet</title>
+<description>
+ZDNet's Jason Cipriani and Jason Perlow discuss and debate all things current in the business tech space.
+</description>
+<pubDate>Tue, 14 Apr 2020 17:12:47 +0000</pubDate>
+<media:credit role="author">Bill Detwiler</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">a67e1b15-0ee7-47a1-800e-02502191026a</guid>
+<link>
+https://www.zdnet.com/article/accenture-and-verizon-announce-b2b-platform-to-match-laid-off-workers-with-open-positions/#ftag=RSSbaffb68
+</link>
+<title>
+Accenture and Verizon announce B2B platform to match laid off workers with open positions
+</title>
+<description>
+Human resource officers built the service to help the 16 million people unemployed due to the coronavirus.
+</description>
+<pubDate>Tue, 14 Apr 2020 16:41:16 +0000</pubDate>
+<media:credit role="author">Veronica Combs</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+</channel>
+</rss>
